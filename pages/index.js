@@ -25,4 +25,4 @@ function Contador() {
   )
 }
  
-export default HomePage
+export default Home
